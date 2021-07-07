@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------
+			**    Equipment    **
+-------------------------------------------------------------------------
+
+	1. Check Inventory
+	2. View Weekly Maintenance Schedule
+	3. View Average Monthly Usage
+	
+	0. Back to Assets

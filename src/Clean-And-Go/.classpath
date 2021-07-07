@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/lib"/>
+	<classpathentry kind="src" path="src/main/test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="src/main/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="src/main/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="src/main/lib/javafx.fxml.jar" sourcepath="src/main/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="src/main/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="src/main/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="src/main/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="src/main/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="src/main/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="src/main/lib/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

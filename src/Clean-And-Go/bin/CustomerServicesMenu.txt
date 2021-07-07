@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------
+			**	Customers	**
+-------------------------------------------------------------------------
+
+	1. Add an customer
+	2. Search an customer
+	3. Update an customer
+	4. Delete an customer
+	
+	0. Back to main menu

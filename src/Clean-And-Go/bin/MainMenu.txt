@@ -1,0 +1,5 @@
+	1. Equipment and Supplies
+	2. Customers and Services
+	3. Employees
+
+	0. Quit
